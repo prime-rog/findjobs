@@ -26,6 +26,18 @@ JOBS = [
     'title' : 'ML enginner',
     'location' : 'India',
     
+  },
+  {
+    'id' : 5,
+    'title' : 'AI enginner',
+    'location' : 'India',
+    
+  },
+  {
+    'id' : 6,
+    'title' : 'AI enginner',
+    'location' : 'India',
+
   }
 ]
 @app.route("/")
